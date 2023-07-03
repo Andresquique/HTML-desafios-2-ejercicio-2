@@ -1,0 +1,12 @@
+footer{
+    font-size: 32px;
+    font-weight: 300;
+    color: #0a2ff1;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+img{
+    width:100px; 
+    vertical-align: middle;
+    margin-left: 30px
+}
